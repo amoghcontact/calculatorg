@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.jsf.core.internal.jsflibrarycontainer/JSF">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="E:/Amogh/project suru/jsf-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Amogh/project suru/jsf-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Amogh/project suru/jstl-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Amogh/project suru/xpp3_min-1.1.4c.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Amogh/project suru/xstream-1.4.7.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
